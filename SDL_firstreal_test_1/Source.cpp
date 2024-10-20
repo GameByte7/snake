@@ -1,4 +1,5 @@
-﻿#include <SDL.h>
+﻿//"Do not use this game without my permission."  :D
+#include <SDL.h>
 #include <SDL_image.h>
 #include <SDL_ttf.h>
 #include <stdio.h>
